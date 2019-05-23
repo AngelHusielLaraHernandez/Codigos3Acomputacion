@@ -1,0 +1,76 @@
+<HTML>
+<HEAD>
+<TITLE>Practica3PaginaMusica1</TITLE>
+</HEAD>
+<BODY BGCOLOR="00008B">
+
+<TABLE BGCOLOR="#00008B" BORDER="2" CELLPADDING="3" CELLSPACING="10" BORDERCOLOR=
+"red">
+
+<CAPTION ALIGN="TOP"> <img src="musica anim.gif" with="80" height="120" align="left"><FONT
+COLOR="FFFF00" SIZE = "5" FACE="Arial Rounded MT Bold "> <b> Mi musica, Cantantes Y artistas
+<br> Favoritos </b></FONT> <img src="manos.jpg" width="90" height="90" align="right"><img 
+src"cantando.jpg" width="90" height="90" align="right"></CAPTION><br></br>
+
+<tr align="center"> <td> <img="musica1.jpg" width="80" height="40"></td>
+<td><img src="video1.jpg" width="80" height="40"></td>
+<td><img src="video2.jpg" width="80" height="40"></td>
+<td><img src="video1.jpg" width="80" height="40"></td>
+<td><img src="video2.jpg" width="80" height="40"></td> </tr>
+
+<tr> <thg BGCOLOR="white" Colspan="2"> <FONT COLOR="red" SIZE="4" FACE="Arial Narrow"> <b>
+Cantates Famoso </b></FONT> </th>
+<td width="8%"> </td>
+<th BGCOLOR="white"> <FONT COLOR="red" SIZE="4" FACE="Arial Narrow"> <b> Noticias </b></FONT> </th>
+<th BGCOLOR="white"> <FONT COLOR="RED" SIZE="4" FACE="Arial Narrow"> <b> Peliculas </b>
+</FONT></th></tr>
+
+<tr> <td align="center" ><img src="enrique iglesia.jpg" align="center" width="150" height="250"></td>
+<td width="43%" > <FONT COLOR="white" SIZE="1" FACE="Arial Narrow" > Enrique iglesias ha conquistado buena
+parte del mercado latino, americano, auropeo y asiatico es un habitual ganador de premios Grammy Nacio en Madrid en 1975, es
+hijo destacado cantante español julio iglesias. En 1996 lanzo su primer album en español y desde entonces tiene muchisimos
+sencillos la mayoria de las cuales son exitos. Albunes - Escape 2002, Quizas seven 2003 etc Canciones Enamorado por primera vez Mentirosa 
+Si tu te vas bailamos, etc. </FONT> </td>
+<td width="8%"> </td>
+<td align="center"><img src="Universal.jpg" Width="80" height="30"> </td>
+<td align="center"><img src="cinemex.jpg " Width="80" height="30"> </td>
+
+<tr> <td align="center" > <img src="Shakira.jpg" width="150" height="250"></td>
+<td width="43%" > <FONT COLOR="white" SIZE="1" FACE=" Arial Narrow"> Shakira nacio en 1977 en colombia En
+arabe Shakira significa: mujer llena de gracia, y para los hidues significa diosa de la luz. dio sus primeros psaso en el mundo del
+espectaculo a los 5 años de edad siendo todavia adolocentees firmo su primer contacto con sony music colombia y desde este 
+momentos no ha parado de asombros con sus canciones tiene varias nominaciones Grammy Albunes: Pies Descalzos,¿Donde 
+estan los ladrones? Laudry Service Fijacion Oral Vol. 1 y 2 Algunos de sus exitos son estoy aqqui un poco de amor si te vas
+¿Donde estas Corazon? Estoy aqui Ciega ordomuda Tu etc. </FONT> </td>
+<td width="10%"><img src="sonido anim.gif" align="center" width="150" height="50"></td>
+<td align="center"><img src="Reforma.jpg" width="80" height="30"> </td>
+<td align="center"><img src="cinepolis.jpg" width="80" height="80"> </td </tr>
+
+<tr> <td align="center"> <img src="paulina.jpg" align="center" width="150" height="250"></td>
+<td width="43%"> <FONT COLOR="white" SIZE="1" FACE="Arial Narrow"> Paulina Susana Rubio Dosamantes nacio 
+en 1971 en la cidad de mexico ens una cantante y actriz mexicana su musica es conocida en ibero America y tambien tiene 
+seguidores en los estados unidos,Europa, Asia y Oceania Ha vendido mas de 17 millones de albunes alrededor del mundo Es una 
+de las artistas mexicanas que mayor ventas ha tenido y una de las cantates mas reconocidas en el mundo hispano. Sus ultimnos exitos
+son los sencillos Mio amor de mujer Enamorada. El me engaño Sangre Latina Miel y Sal Vuelve junto a mi Solo por ti besame en 
+la boca tu y yo Apasrte de cantante es y actriz tiene papeles en varias telenovelas </FONT></td>
+<td width="8%"><img src="periodico1.jpg" align="center" width="150" height="90"></td>
+<td align="center"><img src="Heraldo.jpg" width="80" height="30"> </td>
+<td align="center"><img src="cinemark.jpg" width="80" height="80"> </td> </tr>
+
+<tr> <td align="center"><img src="Rick_Martin.jpg" align="center" width="150" height="250"></td>
+<td width="43%" > <FONT COLOR="white" SIZE="1" FACE="Arial Narrow"> Enrique Martín Morales, más conocido por su nombre artístico Ricky Martin,
+ es un cantante, actor y escritor puertorriqueño nacionalizado español.? Inició su carrera musical a mediados de la década de los 80, 
+como vocalista de un grupo juvenil llamado Menudo. A partir de 1991 se estableció como solista En 1991, Ricky Martin participó en la telenovela mexicana
+ Alcanzar una estrella II (secuela de Alcanzar una estrella, de 1990), donde asumió el rol de Pablo. La producción fue nominada como Mejor telenovela
+en los Premios TVyNovelas de 1991. Junto a sus compañeros de reparto (Sasha Sokol, Angélica Rivera, Erik Rubín, Bibi Gaytán, Pedro Fernández y Marisa De Lille),
+ Martin lanzó dos álbumes de estudio: Muñecos de papel y Alcanzar una estrella II, los cuales cosecharon gran éxito de ventas en países como México y Perú. 
+A raíz de esto, se realizó una adaptación cinematográfica del programa, una película titulada Más que alcanzar una estrella
+</FONT> </td>
+<td width="8%"> <img src="perro anim.gif" width="60" height="80"><FONT COLOR ="white" SIZE="3"
+FACE="Arial" align="center"> Regresar al curriculum </FONT> </td>
+<td align="center"> <img src="excelcior.jpg" width="80" height="30"> </td>
+<td align="center"> <img src="pelicula.jpg" width="90" height="150"> </td> <tr>
+
+</TABLE>
+</BODY>
+</HTML>
